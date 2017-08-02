@@ -199,7 +199,7 @@ class TCPDF {
 	 * Scale factor (number of points in user unit).
 	 * @protected
 	 */
-	protected $k;
+	public $k;
 
 	/**
 	 * Width of page format in points.
